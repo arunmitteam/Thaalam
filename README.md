@@ -1,24 +1,28 @@
-# Thaalam Performing Arts Website
+# தாளம் Thaalam Performing Arts Website
 
-A modern, responsive single-page website for Thaalam Performing Arts, a non-profit organization dedicated to preserving and promoting Tamil percussion arts and cultural heritage.
+A modern, responsive single-page website for Thaalam Performing Arts, a 501(c)(3) non-profit organization celebrating Traditional South Indian Arts and supporting folk communities in Tamil Nadu.
+
+## About Thaalam Performing Arts
+
+Thaalam Performing Arts preserves heritage through Thaalam, Karagattam and folk performances while raising funds to support folk communities in Tamil Nadu. The organization's mission is to preserve and promote the rich cultural heritage of South Indian performing arts while making a meaningful impact on the lives of underserved communities.
 
 ## Features
 
-- **Modern Design**: Clean, professional design optimized for non-profit organizations
+- **Modern Non-Profit Design**: Professional, clean design optimized for cultural organizations
 - **Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
 - **Single Page Layout**: Easy navigation with smooth scrolling between sections
-- **Interactive Elements**: Animations, hover effects, and dynamic content
-- **Contact Form**: Integrated contact form for visitor inquiries
-- **Performance Optimized**: Fast loading times and smooth animations
+- **Interactive Elements**: Smooth animations, hover effects, and engaging transitions
+- **Contact Form**: Integrated contact form for inquiries and support
+- **Mission-Focused**: Clear messaging about cultural preservation and community impact
 
 ## Sections
 
-1. **Hero Section**: Eye-catching introduction with call-to-action buttons
-2. **About**: Information about Thaalam Performing Arts and its mission
-3. **Parai**: Details about the traditional Tamil percussion instrument
-4. **Programs**: Overview of classes, workshops, and cultural initiatives
+1. **Hero Section**: Eye-catching introduction highlighting the 501(c)(3) status and mission
+2. **Our Mission**: Detailed mission statement and organizational pillars
+3. **Traditional Art Forms**: Information about Thaalam, Karagattam, and folk performances
+4. **Our Impact**: Details about performances, community support, and cultural education
 5. **Contact**: Contact form and organization information
-6. **Footer**: Quick links and additional information
+6. **Footer**: Quick links and additional organizational details
 
 ## Technologies Used
 
